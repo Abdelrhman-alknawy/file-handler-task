@@ -18,3 +18,4 @@ it receives data from the requester to either get the data from a specific file 
 to ensure the communication between two threads there synchronization using semaphores 
  
 There is a failed attempts to apply the gtest in the project 
+Gtest will be implemented in the next version 
