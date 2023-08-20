@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "file_handler",
+					"jsonFile" : "directory-file_handler-Debug-30a8597e8d6cc90cc1a2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "file_handler",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "request",
+					"jsonFile" : "directory-request-Debug-a180a7a7a0fe37ad4d9f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "request",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "logger",
+					"jsonFile" : "directory-logger-Debug-69501f4cc39cb8dfc384.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "logger",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "file_handler",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "request",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "simpleLogger",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "fh::@76d50f871d830a6e7f28",
+					"jsonFile" : "target-fh-Debug-c5093555722e5f7b22d0.json",
+					"name" : "fh",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "request::@0c6f4426c49fbcfa84b3",
+					"jsonFile" : "target-request-Debug-7006721d5c6dffd9b8c0.json",
+					"name" : "request",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "simpleLogger::@d605ba84040dd83ce0d4",
+					"jsonFile" : "target-simpleLogger-Debug-1e29d88e69259c269f96.json",
+					"name" : "simpleLogger",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build",
+		"source" : "/home/abdelrhman/Downloads/project-20230819T225818Z-001/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

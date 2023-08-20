@@ -1,0 +1,11 @@
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/CMakeFiles/edit_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/CMakeFiles/rebuild_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/file_handler/CMakeFiles/fh.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/file_handler/CMakeFiles/edit_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/file_handler/CMakeFiles/rebuild_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/request/CMakeFiles/request.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/request/CMakeFiles/edit_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/request/CMakeFiles/rebuild_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/logger/CMakeFiles/simpleLogger.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/logger/CMakeFiles/edit_cache.dir
+/home/abdelrhman/Downloads/project-20230819T225818Z-001/project/build/logger/CMakeFiles/rebuild_cache.dir

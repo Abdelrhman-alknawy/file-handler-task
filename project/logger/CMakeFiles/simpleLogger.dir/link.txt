@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpleLogger.a CMakeFiles/simpleLogger.dir/simpleLogger.cpp.o
+/usr/bin/ranlib libsimpleLogger.a
